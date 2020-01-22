@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Nakazawa from './Nakazawa';
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          中澤氏ね
+          <Nakazawa/>
         </a>
       </header>
     </div>
