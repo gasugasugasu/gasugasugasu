@@ -10,6 +10,7 @@ render(){
     <form>
        <p>テキストエリアです</p>
        <textarea type ="text"/>
+       <p>確認願います</p>
 
     </form>
 
