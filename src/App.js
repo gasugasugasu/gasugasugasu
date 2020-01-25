@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Nakazawa from './Nakazawa';
+import Koga from './Koga';
 import Header from './Header';
 
 function App() {
@@ -19,8 +20,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <Koga/>
           Learn React
-          中澤氏ね
           <Nakazawa/>
         </a>
       </header>
